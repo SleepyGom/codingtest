@@ -10,3 +10,7 @@
 ## 2023-06-05
 * proframers lv0
 * 45problems solved
+
+## 2023-06-06
+* proframers lv0
+* 47problems solved
