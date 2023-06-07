@@ -8,9 +8,13 @@
 * 40 problems solved
 
 ## 2023-06-05
-* proframers lv0
-* 45problems solved
+* programers lv0
+* 45 problems solved
 
 ## 2023-06-06
-* proframers lv0
-* 47problems solved
+* programers lv0
+* 47 problems solved
+
+## 2023-06-07
+* programers lv0
+* 51 problems solved
