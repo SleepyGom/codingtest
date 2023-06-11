@@ -18,3 +18,7 @@
 ## 2023-06-07
 * programers lv0
 * 51 problems solved
+
+## 2023-06-11
+* programers lv0
+* 52 problems solved
