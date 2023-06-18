@@ -24,5 +24,9 @@
 * 52 problems solved
 
 ## 2023-06-15
-* programerse lv0
+* programers lv0
 * 54 problems solved
+
+## 2023-06-18
+* programers lv0
+* 56 problems solved
